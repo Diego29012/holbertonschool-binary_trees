@@ -4,7 +4,6 @@
  * binary_tree_inorder - goes through a binary tree
  * @tree: a pointer to the root node
  * @func: a pointer to the function
- *
 */
 
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
