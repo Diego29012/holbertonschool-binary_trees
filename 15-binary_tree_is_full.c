@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_full - checks if a binary tree is full.
  * @tree: tree
- * Return: 1 is full or 0 
+ * Return: 1 is full or 0
  */
 int binary_tree_is_full(const binary_tree_t *tree)
 {
